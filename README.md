@@ -3,7 +3,6 @@
 ## 👀 About Me
 - 👨‍💻 I am a Junior Developer from South Korea
 - 🔥 Always curious and eager to learn new technologies
-- 🎓 Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
 
 ## 🛠 Tech Stack
 
